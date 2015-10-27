@@ -1,0 +1,8 @@
+name: Splatoon
+version: 1.0
+author: Creepah
+main: com.creepah.splatoon.Splatoon
+depend: [CreepahPlugin]
+
+commands:
+  move:
